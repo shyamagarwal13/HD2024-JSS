@@ -1,3 +1,10 @@
 {
-  "question": "sample"
+  "questions": [
+    {
+      "question": "sample1"
+    },
+    {
+      "question": "sample2"
+    }
+  ]
 }
